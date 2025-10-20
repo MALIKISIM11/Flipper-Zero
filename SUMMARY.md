@@ -10,6 +10,7 @@
 * [🟢 Modulations](hardware/modulations.md)
 * [🟢 Frequencies](hardware/frequencies.md)
 * [🟢 GPIO](hardware/gpio.md)
+* [🔧 USB Port Repair](hardware/usb-port-repair.md)
 * [Protocols](hardware/protocols.md)
 
 ## 1⃣ Firmwares
